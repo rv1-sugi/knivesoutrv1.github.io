@@ -55,6 +55,15 @@ text-decoration : none;
 .side a:hover{
 text-decoration:underline;
 }
+.btn{
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: #cd5c5c;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  width: 100px;
+}
 ul {
 margin: 0 0 0 1em;
 padding: 0;
@@ -89,10 +98,10 @@ font-weight:normal;
 color: #036;
 }
 h1 {
-font-size:16px;
+font-size:18px;
 text-align:left;
 color: #b22222;
-padding:44px 0 0 34px;
+padding:5px 0 0 0;
 margin:0;
 font-family: メイリオ, Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro', 'ＭＳ Ｐゴシック', sans-serif;
 }
@@ -102,21 +111,21 @@ color:#033;
 text-decoration:none;
 }
 h1 a:hover{
-text-decoration:underline;
+text-decoration:none;
 }
 h2 {
-font-size:16px;
+font-size:20px;
 margin:0;
 padding:7px 0 9px 4px;
 border-bottom:1px solid #999;
 }
 h3 {
-font-size:16px;
+font-size:20px;
 padding:5px 0 3px 4px;
 margin-right: 20px;
 }
 h4 {
-font-size:16px;
+font-size:20px;
 padding-left: 4px;
 }
 #footer {
